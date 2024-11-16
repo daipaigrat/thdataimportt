@@ -1,0 +1,11 @@
+Package: thdataimport
+Type: Package
+Title: Import data from some source
+Version: 0.1.0
+Author: SashkaTheGreat
+Maintainer: The package maintainer <lieless@yandex.ru>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
